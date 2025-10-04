@@ -42,10 +42,7 @@ Screenshots / Demo
 The chatbot (CC Service Agent) is integrated into the Coral Cloud Resorts Experience Cloud site. It greets customers and assists with booking requests in real-time.
 
 <img width="642" height="956" alt="Screenshot 2025-09-30 223231" src="https://github.com/user-attachments/assets/d25af117-c2b1-4f29-870c-17c56bd9ffa9" />
-In this example, the user asks the chatbot to book the Underground Cave Exploration activity.
-The agent verifies customer details (email + membership ID).
-Provides available sessions and number of slots.
-Confirms booking for 12 guests.
+
 
 <img width="597" height="736" alt="Screenshot 2025-09-30 223304" src="https://github.com/user-attachments/assets/fcf83dc3-7913-41c5-af7d-6d33b2750d55" />
 
