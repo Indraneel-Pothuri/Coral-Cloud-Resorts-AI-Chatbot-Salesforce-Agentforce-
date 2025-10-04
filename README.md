@@ -42,11 +42,46 @@ Screenshots / Demo
 The chatbot (CC Service Agent) is integrated into the Coral Cloud Resorts Experience Cloud site. It greets customers and assists with booking requests in real-time.
 
 <img width="642" height="956" alt="Screenshot 2025-09-30 223231" src="https://github.com/user-attachments/assets/d25af117-c2b1-4f29-870c-17c56bd9ffa9" />
-
+This is an earlier part of the chat conversation with the bot.
+The bot gives a description of the experience:
+“The Underground Cave Exploration is an adventure activity with a medium activity level… guided by expert speleologists.”
+Then it asks the user for the date they want to book.
+The user replies with "tomorrow".
+This shows the chatbot gathering information from the user to proceed with the booking.
 
 <img width="597" height="736" alt="Screenshot 2025-09-30 223304" src="https://github.com/user-attachments/assets/fcf83dc3-7913-41c5-af7d-6d33b2750d55" />
+This is a chat with the Coral Cloud Service Agent (bot).
+The bot informs that a session for the Underground Cave Exploration is available tomorrow from 5:00 PM to 10:00 PM (UTC).
+It mentions there are 25 slots available.
+The user responds with "12", indicating they want to book 12 guests.
+This shows booking interaction via a chatbot, confirming the slots the user wants.
 
 <img width="2852" height="1489" alt="Screenshot 2025-09-30 223014" src="https://github.com/user-attachments/assets/9fbfe959-ec33-430c-aef4-19b8a4289010" />
+This is a Salesforce record for an experience called "Underground Cave Exploration" at Coral Cloud Resort.
+
+Experience Name: Underground Cave Exploration
+
+Location: Subterranean Caves
+
+Type: Adventure Activities
+
+Activity Level: Medium
+
+Price: $150
+
+Description: “Discover the mysteries of subterranean caves with our expert speleologists.”
+
+Scheduled Session:
+
+Date: October 1, 2025
+
+Time: 5:00 PM – 10:00 PM
+
+Status: Confirmed
+
+Bookings: 12/25 slots filled (48% booked)
+
+This screen essentially gives all the key details of the experience along with the session schedule.
 
 
 
