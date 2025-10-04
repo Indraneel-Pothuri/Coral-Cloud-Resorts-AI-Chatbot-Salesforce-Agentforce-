@@ -39,8 +39,18 @@ Enabled scalable support during peak tourist seasons.
 
 Screenshots / Demo
 <img width="2846" height="1526" alt="Screenshot 2025-09-30 223142" src="https://github.com/user-attachments/assets/f19f77f3-64fe-4c7b-a6cd-96e63f228310" />
+The chatbot (CC Service Agent) is integrated into the Coral Cloud Resorts Experience Cloud site. It greets customers and assists with booking requests in real-time.
+
 <img width="642" height="956" alt="Screenshot 2025-09-30 223231" src="https://github.com/user-attachments/assets/d25af117-c2b1-4f29-870c-17c56bd9ffa9" />
+In this example, the user asks the chatbot to book the Underground Cave Exploration activity.
+The agent verifies customer details (email + membership ID).
+Provides available sessions and number of slots.
+Confirms booking for 12 guests.
+
 <img width="597" height="736" alt="Screenshot 2025-09-30 223304" src="https://github.com/user-attachments/assets/fcf83dc3-7913-41c5-af7d-6d33b2750d55" />
+
+<img width="2852" height="1489" alt="Screenshot 2025-09-30 223014" src="https://github.com/user-attachments/assets/9fbfe959-ec33-430c-aef4-19b8a4289010" />
+
 
 
 
